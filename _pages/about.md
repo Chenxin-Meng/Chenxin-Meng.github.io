@@ -22,6 +22,34 @@ Conferences & Summer Schools
 Seminar Participation
 ======
 
+<div style="position:relative;padding-left:24px;margin-top:10px;">
+<div style="position:absolute;left:5px;top:8px;bottom:8px;width:2px;background:#bbb;"></div>
+
+<div style="position:relative;margin-bottom:24px;">
+<div style="position:absolute;left:-20px;top:4px;width:8px;height:8px;border-radius:50%;background:#333;border:2px solid #fff;"></div>
+<div style="font-size:0.8rem;color:#666;font-weight:600;text-transform:uppercase;letter-spacing:0.5px;">Fall 2026 / 2026年秋季</div>
+<div style="font-size:1rem;font-weight:600;color:#222;margin-top:2px;">Representation Theory Seminar / 表示论讨论班</div>
+</div>
+
+<div style="position:relative;margin-bottom:24px;">
+<div style="position:absolute;left:-20px;top:4px;width:8px;height:8px;border-radius:50%;background:#333;border:2px solid #fff;"></div>
+<div style="font-size:0.8rem;color:#666;font-weight:600;text-transform:uppercase;letter-spacing:0.5px;">Fall 2026 / 2026年秋季</div>
+<div style="font-size:1rem;font-weight:600;color:#222;margin-top:2px;">Algebraic Number Theory Seminar / 代数数论讨论班</div>
+</div>
+
+<div style="position:relative;margin-bottom:24px;">
+<div style="position:absolute;left:-20px;top:4px;width:8px;height:8px;border-radius:50%;background:#333;border:2px solid #fff;"></div>
+<div style="font-size:0.8rem;color:#666;font-weight:600;text-transform:uppercase;letter-spacing:0.5px;">Summer 2026 / 2026年暑期</div>
+<div style="font-size:1rem;font-weight:600;color:#222;margin-top:2px;">Galois Theory Seminar / Galois理论讨论班</div>
+</div>
+
+<div style="position:relative;margin-bottom:24px;">
+<div style="position:absolute;left:-20px;top:4px;width:8px;height:8px;border-radius:50%;background:#333;border:2px solid #fff;"></div>
+<div style="font-size:0.8rem;color:#666;font-weight:600;text-transform:uppercase;letter-spacing:0.5px;">Spring 2026 / 2026年春季</div>
+<div style="font-size:1rem;font-weight:600;color:#222;margin-top:2px;">Algebra Seminar / 代数学讨论班</div>
+</div>
+
+</div>
 
 
 Create content & metadata
